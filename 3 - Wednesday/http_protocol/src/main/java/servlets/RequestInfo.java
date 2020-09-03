@@ -35,7 +35,7 @@ public class RequestInfo extends HttpServlet {
         
         response.setContentType("text/html;charset=UTF-8");
         PrintWriter out = response.getWriter();
-        out.println("Headers<hr/>");
+        out.println("Request Headers<hr/>");
         Enumeration<String> headerNames = request.getHeaderNames();
         while (headerNames.hasMoreElements()) {
                 String headerName = headerNames.nextElement();
