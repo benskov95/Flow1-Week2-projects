@@ -1,3 +1,5 @@
+Benjamin Skovgaard - cph-bs190@cphbusiness.dk
+
 # Flow1-Week2-projects
 
 ## Note
@@ -14,12 +16,12 @@ Worked on 2 projects: 'http_protocol' and 'sessions'. Both of these projects wer
 The exercise involving the 2 projects also came with a list of questions, all of which have been answered in the 'The HTTP Protocol' Word file.
 
 #### Project status
-'http_protocol' = completed
-'sessions' = completed
+- 'http_protocol' = completed
+- 'sessions' = completed
 
 ## Friday
 Worked on 1 project: 'link_page'. This project was not a direct part of any exercise, and was made only to host a page with the various links that we were asked to provide for our weekly hand-in for week 2.
 
 #### Project status
-'link_page' = completed
+- 'link_page' = completed
 
